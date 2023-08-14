@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zTMyXo0pag4bzerd6nX4gJMqo60+hOuk2FSRJ52hSMBMYELYLVrxwlodGrZnFyCjgDLRBcmqN0MyRFYHaZR+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ilumi\\source\\repos\\parsinng\\parsinng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilumi\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Ilumi\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512",
+    "C:\\Users\\Ilumi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ilumi\\.nuget\\packages\\selenium.support\\4.11.0\\selenium.support.4.11.0.nupkg.sha512",
+    "C:\\Users\\Ilumi\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
